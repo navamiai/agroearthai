@@ -1,0 +1,22 @@
+#virtual environment
+env_agroearth/
+.env
+#python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+#testing
+.pytest_cache/
+#IDE
+.vscode/
+.idea/
+#OS files
+.DS_Store
+Thumbs.db
+#Logs
+*.log
+#build files
+build/
+dist/
+*.egg-info/
